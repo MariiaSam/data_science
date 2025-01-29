@@ -1,0 +1,33 @@
+EDA+ML_Modeling
+
+- Import Libraries and Dataset
+
+Install Pytorch Lib for importing the libs.
+
+- Exploratory Data Analysis
+
+Divide the features into Categorical and Numerical wise
+Handle the missing values of features accordingly
+Check the Duplication into the features
+Check the Cardinality of the Cat Features and perfrom the Feature Engg if necessary
+Check the data distribution of Numerical Features
+Check the Outliers and tackle them accordingly
+
+- Visualization
+
+After cleaning the data make some relationship.
+Make some graphical representation
+
+- Machine Learning Model Creation
+
+Encoding the Category Features first
+Remove the unnecessary features
+Scale the Feature
+Model Training
+Predict the Model
+Check the accuracy score
+Check the Overfitting and Underfitting
+Confusion Matrix
+Cross Validation...
+
+- Results and Conclusion
